@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\bin\Debug\net6.0\Basic_Collections.exe
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\bin\Debug\net6.0\Basic_Collections.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\bin\Debug\net6.0\Basic_Collections.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\bin\Debug\net6.0\Basic_Collections.dll
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\bin\Debug\net6.0\Basic_Collections.pdb
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\Basic_Collections.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\Basic_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\Basic_Collections.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\Basic_Collections.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\Basic_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\Basic_Collections.dll
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\refint\Basic_Collections.dll
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\Basic_Collections.pdb
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\Basic_Collections.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Basic_Collections\Basic_Collections\obj\Debug\net6.0\ref\Basic_Collections.dll
